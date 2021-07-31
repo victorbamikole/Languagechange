@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LanguageChange</string>
+    <string name="english">HELLO VICTOR</string>
+    <string name="spanish">HOLLA VICTOR</string>
+    <string name="french">VOXA VICTOR</string>
+    <string name="text_to_change">HELLO VICTOR</string>
+    <string name="but1">ENGLISH</string>
+    <string name="but2">FRENCH</string>
+    <string name="but3">SPANISH</string>
+</resources>

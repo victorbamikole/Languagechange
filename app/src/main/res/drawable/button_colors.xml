@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:drawable="@drawable/button_shape"
+        android:state_pressed="true">
+        <color android:color="@color/pressed"></color>
+    </item>
+    <item
+        android:drawable="@drawable/button_shape"
+        android:state_selected="true">
+        <color android:color="@color/selected"></color>
+    </item>
+
+    <item
+        android:drawable="@drawable/button_shape"
+        android:state_focused="true">
+        <color android:color="@color/focused"></color>
+    </item>
+
+    <item
+        android:drawable="@drawable/button_shape"
+        android:state_enabled="true">
+    <color android:color="@color/enabled"></color>
+</item>
+
+
+</selector>
